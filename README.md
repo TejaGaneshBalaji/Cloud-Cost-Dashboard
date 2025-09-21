@@ -20,16 +20,16 @@ The data models synthetic cloud billing tables, built to represent how organizat
 
 🗄 Database Simulation:
 Service Table – Cloud services (Compute, Storage, Database, Networking, etc.)
-Region Table – Global regions (US-East, EU-Central, APAC, etc.)
+Databases Table – DB costs (InfluxDB(Avien), MongoDB, OracleDB, etc.)
 Usage Table – Resource consumption in units (e.g., GB, vCPU hours)
-Cost Table – Final cost per unit after applying rates
+Cost Table – Final cost per month data after applying rates
 
-📂 Data Source
+## 📂 Data Source
 
 Synthetic dataset created to model multi-cloud cost behavior.
 Covers services, regions, time-series costs, and usage categories to mimic enterprise reporting needs.
 
-⭐ Features & Highlights
+## ⭐ Features & Highlights
 
 Business Problem:
 Cloud costs are complex and fragmented, making it difficult for finance and engineering teams to track spending trends and identify optimization opportunities.
@@ -55,7 +55,12 @@ Cloud costs are complex and fragmented, making it difficult for finance and engi
   * Helps engineering teams identify cost-intensive services
   * Supports management decisions on resource allocation and cloud strategy
 
-📸 Screenshots / Demo
+## 📸 Screenshots / Demo
+
+Here’s what the dashboard looks like:  
+
+![Dashboard Overview](https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1)%20Overview%20of%20Cloud%20Costs.png?raw=true)
+
 
 https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1)%20Overview%20of%20Cloud%20Costs.png
 
