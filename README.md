@@ -59,10 +59,10 @@ Cloud costs are complex and fragmented, making it difficult for finance and engi
 
 Here’s what the dashboard looks like:  
 
-![Dashboard Overview](https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1)%20Overview%20of%20Cloud%20Costs.png?raw=true)
+![Dashboard Overview](https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1_%20Overview%20of%20Cloud%20Costs.png)
 
 
-https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1)%20Overview%20of%20Cloud%20Costs.png
+[https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1)%20Overview%20of%20Cloud%20Costs.png](https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/1_%20Overview%20of%20Cloud%20Costs.png)
 
 https://github.com/TejaGaneshBalaji/Cloud-Cost-Dashboard/blob/main/2)%20Detailed%20cost%20of%20Infrastructure%20and%20Operational.png
 
