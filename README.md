@@ -3,7 +3,7 @@ End-to-end Power BI project simulating enterprise cloud costs by billing data an
 
 📌 Purpose
 
-This dashboard was developed to simulate a realistic cloud cost monitoring tool, showcasing cost breakdowns across services, regions, and time periods.
+This dashboard was developed to simulate a realistic cloud cost monitoring tool, showcasing cost breakdowns across services, environments, and time periods.
 Note: All data used is synthetically generated to replicate real-world scenarios based on my prior work experience. The guide for the synthetically generated data can be looked in this repo (https://github.com/TejaGaneshBalaji/synthetic-datasets).
 
 🛠 Tech Stack
